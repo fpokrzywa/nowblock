@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_311185_now_block.blockbuilder_admin" name="x_311185_now_block.blockbuilder_admin">73ca9c74dbc30010a22a2bfa4b961927</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-15 23:59:24</sys_created_on>
+        <sys_id>bbca9c74dbc30010a22a2bfa4b96192a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>73ca9c74dbc30010a22a2bfa4b961927</sys_name>
+        <sys_package display_value="Now Building Block" source="x_311185_now_block">2daa5430db870010a22a2bfa4b961989</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Building Block">2daa5430db870010a22a2bfa4b961989</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bbca9c74dbc30010a22a2bfa4b96192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-15 23:59:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
